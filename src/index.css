@@ -1,1 +1,11 @@
+@font-face {
+  font-family: 'Figtree-ExtraBold';
+  src: url('./assets/fonts/Figtree-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Figtree-Medium';
+  src: url('./assets/fonts/Figtree-Medium.ttf') format('truetype');
+}
+
 @import 'tailwindcss'
